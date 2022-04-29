@@ -5,7 +5,9 @@
 /.pnp
 .pnp.js
 /.next
-
+/credentials.*
+/verification*
+/token*
 
 # testing
 /coverage
